@@ -1,6 +1,9 @@
+
+
 body {
     background: url(/yetanothertest/photo.jpeg);
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
     width: 500px;
     height: 500px; 
+    border: 1px solid black; 
 }
